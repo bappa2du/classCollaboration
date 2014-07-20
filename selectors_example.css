@@ -45,6 +45,9 @@ b~i
 }
 .danger
 {
-    font-size: 30px;
+    font-size: 9em;
     color: red;
+    border: 5px dashed brown;
+    text-align: center;
+    text-decoration: underline;
 }
