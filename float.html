@@ -11,6 +11,8 @@
             }
             section
             {
+                position: relative;
+                top: 100px;
                 width: 49%;
                 border: 1px solid black;
 
@@ -26,6 +28,12 @@
                 margin: 0px;
                 padding: 0px;
             }
+            img
+            {
+                float: right;
+                width: 80px;
+                height: 80px ;
+            }
         </style>
     </head>
     <body>
@@ -34,17 +42,20 @@
 
 
         <div>
+
             All Selectors syntax is case-insensitive within the ASCII range (i.e. [a-z] and [A-Z] are equivalent),
+            <img src="sample.jpg" alt="sample picture"/>
             except for parts that are not under the control of Selectors. The case sensitivity of document language
             element names, attribute names, and attribute values in selectors depends on the document language. For example, in HTML,
             element names are case-insensitive, but in XML, they are case-sensitive. Case sensitivity of namespace prefixes is defined in
         </div>
+        <br/>
         <section>
             language element names, attribute names, and attribute values in selectors depends on the document
             language. For example,
             in HTML, element names are case-insensitive, but in XML, they are case-sensitive. Case sensitivity
             of namespace prefixes is defined in
         </section>
-        <!-- <img src="sample.jpg" alt="sample picture"/>-->
+        <!-- -->
     </body>
 </html>
