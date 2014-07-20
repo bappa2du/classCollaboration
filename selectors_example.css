@@ -39,3 +39,12 @@ b~i
 {
     background-color: royalblue;
 }
+#zen-summary
+{
+    color: blueviolet;
+}
+.danger
+{
+    font-size: 30px;
+    color: red;
+}
