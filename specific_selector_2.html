@@ -3,22 +3,21 @@
             <head>
                 <title>Working with box</title>
                 <style type="text/css">
-
-                    .myclass
+                    strong
                     {
-                        border: 5px dotted black;
-                        width: 400px;
-                        padding: 35px;
-                        border-radius: 50px 0px;
-                        margin: 50px auto;
-                        text-align: justify;
-
+                        background-color: yellowgreen;
+                        margin-right: 20px;
                     }
-                    h1
+                    span
                     {
-                        text-align: center;
-                        text-decoration: underline;
+                        background-color: turquoise;
+                        margin-left: -30px;
                     }
+                    div
+                    {
+                        background-color: black;
+                    }
+
                 </style>
 
             </head>
@@ -26,11 +25,9 @@
                 <!-- html comment -->
                 <h1>Personal <i>Information</i></h1>
 
-                <div class="myclass">
-                    All Selectors syntax is case-insensitive within the ASCII range (i.e. [a-z] and [A-Z] are equivalent),
-                    except for parts that are not under the control of Selectors. The case sensitivity of document language
-                    element names, attribute names, and attribute values in selectors depends on the document language. For example, in HTML,
-                    element names are case-insensitive, but in XML, they are case-sensitive. Case sensitivity of namespace prefixes is defined in
+                <div>
+                    <strong>Name</strong>
+                    <span>Iftakharul Alam</span>
                 </div>
             </body>
         </html>
