@@ -6,7 +6,15 @@ div
 {
     color: darkslategray;
 }
-div
+div[role]
 {
     color: grey;
+}
+div[role='article']
+{
+    color: blueviolet;
+}
+div[role='main']
+{
+    background-color: greenyellow;
 }
