@@ -23,11 +23,40 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="float.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/float.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="52" selection-start="812" selection-end="812" vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="442">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="specific_selector_2.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/specific_selector_2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="35" selection-start="733" selection-end="733" vertical-scroll-proportion="0.466031" vertical-offset="0" max-vertical-offset="839">
+            <state line="19" column="43" selection-start="629" selection-end="629" vertical-scroll-proportion="0.3849821" vertical-offset="0" max-vertical-offset="839">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="selectors_example.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/selectors_example.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="1" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0" vertical-offset="70" max-vertical-offset="986">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="specific_selector.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/specific_selector.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="44" column="145" selection-start="1276" selection-end="1790" vertical-scroll-proportion="-27.384615" vertical-offset="36" max-vertical-offset="901">
+              <folding>
+                <element signature="n#style#0;n#strong#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -48,6 +77,7 @@
         <option value="$PROJECT_DIR$/zend_garden.html" />
         <option value="$PROJECT_DIR$/selectors_example.css" />
         <option value="$PROJECT_DIR$/specific_selector.html" />
+        <option value="$PROJECT_DIR$/float.html" />
         <option value="$PROJECT_DIR$/specific_selector_2.html" />
       </list>
     </option>
@@ -213,13 +243,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/selectors_example.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="1" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0" vertical-offset="70" max-vertical-offset="986">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css3_boxmodel.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="70" selection-start="654" selection-end="654" vertical-scroll-proportion="-14.384615" vertical-offset="0" max-vertical-offset="731">
@@ -231,16 +254,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/specific_selector.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="24" selection-start="735" selection-end="735" vertical-scroll-proportion="-12.653846" vertical-offset="62" max-vertical-offset="901">
+        <state line="44" column="145" selection-start="1276" selection-end="1790" vertical-scroll-proportion="-27.384615" vertical-offset="36" max-vertical-offset="901">
           <folding>
             <element signature="n#style#0;n#strong#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/selectors_example.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="1" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0" vertical-offset="70" max-vertical-offset="986">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/float.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="52" selection-start="812" selection-end="812" vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="442">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/specific_selector_2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="35" selection-start="733" selection-end="733" vertical-scroll-proportion="0.466031" vertical-offset="0" max-vertical-offset="839">
+        <state line="19" column="43" selection-start="629" selection-end="629" vertical-scroll-proportion="0.3849821" vertical-offset="0" max-vertical-offset="839">
           <folding />
         </state>
       </provider>
