@@ -24,8 +24,14 @@
             Date of Birth:      <select><option>Day</option></select>
                                 <select><option>Month</option></select>
                                 <select><option>Year</option></select><br/>
-            Gender:             <input type="radio">Male<input type="radio">Female<br/>
-            Marital Status:     <input type="radio">Single<input type="radio">Married<br/>
+            Gender:             <label for='Male'>Male</label>
+                                    <input type="radio" name='gender' id='Male'>
+                                <label for='Female'>Female</label>
+                                    <input type="radio" name='gender' id='Female'><br/>
+            Marital Status:     <label for='Single'>Single</label>
+                                    <input type="radio" name='type' id='Single'>
+                                <label for='Married'>Married</label>
+                                    <input type="radio" name='type' id='Married'><br/>
             Religion:           <select><option>Muslim</option></select><br/>
             Nationality:        <select><option>Country</option></select><br/>
             National ID No:     <input type="text"><br/>
