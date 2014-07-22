@@ -7,6 +7,7 @@
         <h1>User Registration page</h1>
 
         <fieldset>
+            <form method='post' action='#'>
             <legend>User Info</legend>
 
             First Name:         <input type="text"/><br/>
@@ -180,5 +181,12 @@
             Your photo:<input type="file"><br/>
             <strong>***Photo must not greater than 100KB in size***</strong>
         </fieldset>
+        <fieldset>
+            <legend>Security</legend>
+            Password:           <input type='password'/><br/>
+            Confirm password:   <input type='password'/>
+        </fieldset>
+        <input type='submit' value='Submit'/>
+    </form>
     </body>
 </html>
